@@ -631,7 +631,7 @@
           },
           "_anchor": "contacts1-7",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "2",
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
