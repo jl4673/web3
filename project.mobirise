@@ -195,7 +195,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/stump-cutting-600x399.jpg",
+              "src": "@PROJECT_PATH@/assets/images/cutterwheel-600x399.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -214,7 +214,7 @@
             }
           },
           "title1": "PROFESSIONAL SERVICE",
-          "caption1": "<b>CLEARPATH Outdoor was founded by a Purdue Landscape Architect with 25 years of outdoor project experience. &nbsp;We're working to create</b><b>&nbsp;a new standard of professional service in stump removal. &nbsp;</b><br>",
+          "caption1": "<b>CLEARPATH Outdoor was founded by a Purdue Landscape Architect with 25 years of outdoor project experience. We're working to create</b><b>&nbsp;a new standard of service in stump removal.</b><br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -407,7 +407,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/safety-1-600x389.jpg",
+              "src": "@PROJECT_PATH@/assets/images/screen-guard.gif",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
